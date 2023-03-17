@@ -1,0 +1,1 @@
+[{"C:/Data/annotation/data/input\\sample3.png_2": [{"image_path": "C:/Data/annotation/data/input\\sample3.png", "label": "time", "text": "00:05.12", "pageSize": [425, 341], "normalizedVerticles": [{"x1": 86, "y1": 296}, {"x2": 153, "y1": 296}, {"x2": 153, "y2": 313}, {"x1": 86, "y2": 313}]}]}]

@@ -1,0 +1,5 @@
+C:\Data\annotation\data\input\image001.png	1
+C:\Data\annotation\data\input\image002.png	1
+C:\Data\annotation\data\input\image003.png	1
+C:\Data\annotation\data\input\image014.png	1
+C:\Data\annotation\data\input\image007.png	1
